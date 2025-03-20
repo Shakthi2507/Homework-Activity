@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Movies</title>
+    </head>
+<body>
+    <table border="5" bgcolor="red">
+    <tr>
+        <th bgcolor="yellow" border="10">Film</th>
+        <th>Male Actor</th>
+        <th>Female Actor</th>
+    </tr>
+    <tr>
+        <td>Sarkar</td>
+        <td>Vijay</td>
+        <td>Keerthy Suresh</td>
+        <tr>
+            <td>Bigil</td>
+            <td>Vijay</td>
+            <td>Nayanthara</td>
+        </tr>
+        <tr>
+            <td>GOAT</td>
+        <td>Vijay</td>
+        <td>Sneha and Meenakshi Chaudhary</td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+        <title>My School</title>
+
+    </head>
+    <body>
+        <h1>Pristine Public School</h1>
+        <center>
+            <img src="img 2.jpg" alt="School" width="400" height="400">
+        </center>
+
+        <h1>Back To School</h1>
+        <audio controls loop>
+            <source src="audio 2.mp3" type="audio/mpeg">
+        </audio>
+
+        <h1>Teachers in Pristine are Great</h1>
+        <video width="400" height="300" controls >
+            <source src="video 2.mp4" type="video/mp4">
+        </video>
+
+        <h1>Environment Day Program in Pristine Public School</h1>
+        <iframe widht="500" height="300"
+        src="https://www.youtube.com/embed/8b6Zjz7_G4s?si=B4rK5jsHrSvf0uVI"></iframe>
+        
+        
+    </body>
+</html>
